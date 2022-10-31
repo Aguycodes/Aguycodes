@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aguycodes
-- 👀 I’m interested in webdev
-- 🌱 I’m currently learning webdev
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web and game development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me aguycodes25@gmail.com
 
 <!---
