@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aguycodes
+- 👋 Hi, I’m Etinosa Samuel Otoghile
 - 👀 I’m interested in web and game development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning web development and game development
+- 💞️ I’m looking to work on your web development projects
 - 📫 How to reach me aguycodes25@gmail.com
 
 <!---
