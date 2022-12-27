@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Etinosa Samuel Otoghile
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning web development and game development
-- 💞️ I’m looking to work on your web development projects
+- 👀 I’m interested in web and game development.
+- 🌱 I currently have knowledge on HTML, CSS, SASS, JavaScript, TypeScript and ReactJs. 
+- 💞️ I’m looking to work on your web development projects.
 - 📫 How to reach me aguycodes25@gmail.com
 
 <!---
