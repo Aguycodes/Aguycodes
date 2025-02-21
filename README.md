@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Etinosa Samuel Otoghile
-- 👀 I’m interested in web and game development.
-- 🌱 I currently have knowledge on HTML, CSS, JavaScript, ReactJs and Git. 
-- 💞️ I’m looking to work on your web development projects.
+- 👀 I’m interested in Machine Learning and Game Development.
+- 🌱 I currently have knowledge on HTML, CSS, JavaScript, Python, Flask, Pandas, Numpy, Scikit-learn, Tensorflow and . 
+- 💞️ I’m looking to work on your Machine Learning projects.
 - 📫 How to reach me aguycodes25@gmail.com
 
 <!---
